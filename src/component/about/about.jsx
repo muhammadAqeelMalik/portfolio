@@ -15,6 +15,17 @@ export default function about() {
         <div className="about_content">
           <div className="about_card">
             <article className="about_card">
+              <FaAward className="about_icons" />
+              <h5>Experience</h5>
+              <small>3+ year working</small>
+            </article>
+            <article className="about_card">
+              <FaAward className="about_icons" />
+              <h5>Experience</h5>
+              <small>3+ year working</small>
+            </article>
+            <article className="about_card">
+              <FaAward className="about_icons" />
               <h5>Experience</h5>
               <small>3+ year working</small>
             </article>
